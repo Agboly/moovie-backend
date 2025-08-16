@@ -1,0 +1,1 @@
+tree --prune -I 'build|*.egg-info|__pycache__'
